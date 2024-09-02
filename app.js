@@ -1,3 +1,5 @@
+document.requestFullscreen();
+
 const die = [4,6,8,10,12,20];
 let container =  document.getElementsByClassName('container')[0];
 let buttons = [];
